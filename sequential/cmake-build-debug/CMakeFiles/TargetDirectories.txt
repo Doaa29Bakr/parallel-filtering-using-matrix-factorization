@@ -1,0 +1,5 @@
+C:/sequential/cmake-build-debug/CMakeFiles/MatFact_Serial.dir
+C:/sequential/cmake-build-debug/CMakeFiles/MovieMapper.dir
+C:/sequential/cmake-build-debug/CMakeFiles/DataConverter.dir
+C:/sequential/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/sequential/cmake-build-debug/CMakeFiles/rebuild_cache.dir
